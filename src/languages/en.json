@@ -1,0 +1,8 @@
+{
+    "title": "Hello Vite Pug!",
+    "Click on the Vite logo to learn more": "Click on the Vite logo to learn more",
+    "content": {
+        "title": "Hello Vite Pug!",
+        "description": "This is a simple example of a Vite project using Pug as the template engine."
+    }
+}
